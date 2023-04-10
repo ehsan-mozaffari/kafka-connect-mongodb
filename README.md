@@ -1,6 +1,9 @@
 # kafka-connect-mongodb
 Kafka Connect for MongoDB
 
+Change it to Kafka-connect
+Write docker file for each sink or consumer
+
 
 ## Sink
  The sink connector is a Kafka Connect connector that reads data from Apache 
